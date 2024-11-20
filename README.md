@@ -1,0 +1,1 @@
+This project is a simple recommendation system built using the "Retail Sales Dataset" from Kaggle. It analyzes customer purchase patterns and suggests product categories using collaborative filtering and cosine similarity.
